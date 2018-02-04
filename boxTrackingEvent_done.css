@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#box{
+    position: absolute;
+    background-color: green;
+    top: 100px;
+    left: 100px;
+    width: 100px;
+    height: 100px;
+}
+div {
+    border-radius: 50px;
+}
